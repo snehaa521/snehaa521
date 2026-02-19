@@ -17,16 +17,20 @@ I enjoy **learning new technologies**, solving problems with code, and exploring
 
 ## 🎓 Certifications
 
-- **Data Analytics Simulation – Deloitte (Forage, 2026)**  
+- **GenAI Job Simulation – BCGx (Forage, Feb 2026)**  
+  Developed an AI-powered financial chatbot using Python and predefined queries to 
+  analyze data from 10-K filings and provide structured, user-friendly insights.
+
+- **Data Analytics Simulation – Deloitte (Forage, Jan 2026)**  
   Hands-on experience in data cleaning, analysis, and business insights using real-world scenarios.
 
-- **Data Visualisation – TATA (Forage, 2026)**  
+- **Data Visualisation – TATA (Forage, Jan 2026)**  
   Learned how to create effective visualizations and communicate insights for decision-making.
 
-- **GenAI Analytics Simulation – TATA (Forage, 2026)**  
+- **GenAI Analytics Simulation – TATA (Forage, Jan 2026)**  
   Worked with AI-driven analytics concepts and practical business use cases.
 
-- **Microsoft AI Skills Challenge (Microsoft Learn, 2024)**  
+- **Microsoft AI Skills Challenge (Microsoft Learn, Jan 2024)**  
   Gained foundational understanding of AI concepts and responsible AI practices.
 
 ---
