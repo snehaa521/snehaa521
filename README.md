@@ -18,29 +18,34 @@ I enjoy **learning new technologies**, solving problems with code, and exploring
 ## 🎓 Certifications
 
 - **GenAI Job Simulation – BCGx (Forage, Feb 2026)**  
-  Developed an AI-powered financial chatbot using Python and predefined queries to 
-  analyze data from 10-K filings and provide structured, user-friendly insights.
 
 - **Data Analytics Simulation – Deloitte (Forage, Jan 2026)**  
-  Hands-on experience in data cleaning, analysis, and business insights using real-world scenarios.
 
 - **Data Visualisation – TATA (Forage, Jan 2026)**  
-  Learned how to create effective visualizations and communicate insights for decision-making.
 
-- **GenAI Analytics Simulation – TATA (Forage, Jan 2026)**  
-  Worked with AI-driven analytics concepts and practical business use cases.
-
+- **GenAI Analytics Simulation – TATA (Forage, Jan 2026)**
+  
 - **Microsoft AI Skills Challenge (Microsoft Learn, Jan 2024)**  
-  Gained foundational understanding of AI concepts and responsible AI practices.
 
 ---
 
-## 💻 Projects & Experience
-- Completed hands-on **course projects** to practice and improve my skills.  
-  One of these is the **Vehicle-Parking-App**, a web-based application for managing parking slots with real-time updates.  
 
-> ⚠️ Note: All course projects are for **learning purposes only**. I am not sharing full code publicly to respect course guidelines and avoid plagiarism.  
-> I plan to upload a personal project soon that I built independently.
+## 💻 Projects
+- Completed hands-on **course projects** to practice and improve my skills.  
+  One of these is the **Vehicle-Parking-App**, a web-based application for managing parking slots with real-time updates.
+
+#### **_AI & Predictive Analytics_**
+- Developed an AI-powered financial chatbot using Python and predefined queries to analyze data from 10-K filings and provide structured, user-friendly insights.
+- Applied GenAI tools (ChatGPT, Google Gemini) for predictive modeling, data analysis, and responsible AI strategy in financial services scenarios.
+
+#### **_Data Analysis & Visualization_**
+- Created data visuals using Tableau to help a retail client analyze revenue and support strategic decision-making.
+- Performed data analysis and dashboard creation using Tableau and Excel to derive business insights into a forensic technology context.
+
+----
+
+> ⚠️ Note: All course projects are for **learning purposes only**. I am not sharing full code of the **web-based application** publicly to respect course guidelines and avoid plagiarism. I plan to upload a personal project soon that I built independently.
+> - 😇 Other projects can be viewed in separate repositories.
 
 ---
 
