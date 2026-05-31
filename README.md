@@ -23,7 +23,9 @@ I enjoy **learning new technologies**, solving problems with code, and exploring
 
 ## 🎓 Certifications
 
-- **Data Analytics with Python – IIT Roorkee (NPTEL, May 2026)**  
+- **AWS Academy Graduate – Cloud Foundations | Amazon Web Services (AWS, May 2026)**  
+
+- **Data Analytics with Python – IIT Roorkee (NPTEL, May 2026)**
 
 - **GenAI Job Simulation – BCGx (Forage, Feb 2026)**  
 
